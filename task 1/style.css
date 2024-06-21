@@ -1,0 +1,18 @@
+.search-container{
+    width: 50%;
+    height: 40px;
+}
+.channel-info{
+    display: flex;
+    justify-self: auto;
+}
+.buttom{
+    background-color:red;
+}
+.like{
+    display: flex;
+    justify-content: space-between;
+}
+header-icons{
+    text-decoration: none;
+}
